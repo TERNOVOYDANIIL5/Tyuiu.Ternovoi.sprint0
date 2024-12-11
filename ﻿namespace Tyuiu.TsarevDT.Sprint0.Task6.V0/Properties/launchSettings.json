@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "﻿namespace Tyuiu.TsarevDT.Sprint0.Task6.V0.": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
